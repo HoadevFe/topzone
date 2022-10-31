@@ -1,0 +1,18 @@
+.Container {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 46px;
+  @media (max-width: 960px) {
+    flex-wrap: wrap;
+  }
+  .Typography {
+    svg {
+      height: 46px;
+      width: 40px;
+    }
+    .title {
+      margin: 0;
+      font-size: 15px;
+    }
+  }
+}

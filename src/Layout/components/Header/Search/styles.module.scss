@@ -1,0 +1,14 @@
+.Stack {
+  margin-right: 1rem;
+  button {
+    background: #2d2d2d;
+    &:hover {
+      background: #5c5c5c;
+    }
+    .iconSearch {
+      color: white;
+      width: 1.25rem;
+      height: 1.25rem;
+    }
+  }
+}

@@ -1,0 +1,55 @@
+.containerInfo {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #333;
+  @media (max-width: 960px) {
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  @media (max-width: 600px) {
+    flex-direction: column;
+  }
+}
+.certify {
+  display: flex;
+  justify-content: space-between;
+  @media (max-width: 900px) {
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+  }
+  .certifyText {
+    .text {
+      color: #666;
+      font-size: 14px;
+    }
+  }
+  .certifyImage {
+    display: flex;
+    padding: 16px;
+    padding-right: 0;
+    @media (max-width: 900px) {
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    .imgBct {
+      padding: 6px 8px;
+      img {
+        width: 127px;
+      }
+    }
+    .imgNcsc {
+      padding: 0 8px;
+
+      img {
+        width: 150px;
+      }
+    }
+    .imgDmca {
+      padding-left: 8px;
+      padding-top: 16px;
+      img {
+        width: 135px;
+      }
+    }
+  }
+}
