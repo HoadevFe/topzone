@@ -24,7 +24,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-14",
+    // link: "/iphone/iphone-14",
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-14-plus",
+    // link: "iphone-14-plus",
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-14-pro",
+    // link: "iphone-14-pro",
   },
   {
     id: 4,
@@ -54,7 +54,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-14-pro-max-512gb",
+    // link: "iphone-14-pro-max-512gb",
   },
   {
     id: 5,
@@ -64,7 +64,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-14-pro-max-256gb",
+    // link: "iphone-14-pro-max-256gb",
   },
   {
     id: 6,
@@ -74,7 +74,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-13",
+    // link: "iphone-13",
   },
   {
     id: 7,
@@ -84,7 +84,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-13-pro",
+    // link: "iphone-13-pro",
   },
   {
     id: 8,
@@ -94,7 +94,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-13-pro-max",
+    // link: "iphone-13-pro-max",
   },
   {
     id: 9,
@@ -105,7 +105,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-11",
+    // link: "iphone-11",
   },
   {
     id: 10,
@@ -115,7 +115,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-14-pro-max",
+    // link: "iphone-14-pro-max",
   },
   {
     id: 11,
@@ -125,7 +125,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-11-128gb",
+    // link: "iphone-11-128gb",
   },
   {
     id: 12,
@@ -135,7 +135,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-14-pro-256gb",
+    // link: "iphone-14-pro-256gb",
   },
   {
     id: 13,
@@ -145,7 +145,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-13-256gb",
+    // link: "iphone-13-256gb",
   },
   {
     id: 14,
@@ -155,7 +155,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-13-mini",
+    // link: "iphone-13-mini",
   },
   {
     id: 15,
@@ -165,7 +165,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-14-pro-512gb",
+    // link: "iphone-14-pro-512gb",
   },
   {
     id: 16,
@@ -175,7 +175,7 @@ export const DataContent = [
     price: "21.490.000đ ",
     strike: "27.990.000₫",
     discount: "-6%",
-    link: "/iphone/iphone-13-pro-256gb",
+    // link: "iphone-13-pro-256gb",
   },
 ];
 

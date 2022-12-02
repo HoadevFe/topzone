@@ -2,8 +2,6 @@ import Slider from "react-slick";
 import styles from "./styles.module.scss";
 import AppleIcon from "@mui/icons-material/Apple";
 
-// import "./slick.module.css";
-// import "./slick-theme.module.css";
 import {
   Card,
   CardActionArea,
@@ -65,7 +63,7 @@ export default function SliderCommon(props) {
               background: "#323232",
             }}
           >
-            <Link className={styles.link} to={item.link}>
+            <Link className={styles.link} to={`/products/${item.id}`}>
               <CardActionArea>
                 <div
                   style={{
